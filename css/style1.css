@@ -43,9 +43,9 @@
 #contacts{
   background-color: #50c878 ;
   color: white;
-  padding: 50px;
+  padding: 30px;
   font-size: 1.5rem;
-  height: 110vh;
+  height: auto;
 }
 
 #contacts label{
@@ -55,7 +55,7 @@
 }
 
 #contacts input, textarea{
-  width: 400px;
+  width: 100%;
   padding: 6px;
   font-size: 1.2rem;
   border: 0;
